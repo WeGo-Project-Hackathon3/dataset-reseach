@@ -1,8 +1,0 @@
-item { 
-	name:'worker'
-	id:1
-}
-item { 
-	name:'Noworker'
-	id:2
-}
